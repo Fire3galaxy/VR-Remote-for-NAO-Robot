@@ -30,4 +30,6 @@ For this project, I used [Unity3D 2017.3.1f1](https://unity3d.com/get-unity/down
 7. Follow the on-screen (in VR) instructions for calibrating your Touch controller's positions. Then you'll be able to control NAO's arms. The rest of the previously listed features work immediately.
 
 ## Disclaimer/Final Notes
+This project is licensed under an MIT license. Use my code with this in mind. 
+
 This project has a lot of flaws, and I may/may not come back to this project. But I had a HUGE BLAST working on this and I'm proud of my little robot for what it was able to do. I definitely could optimize and make the application generally better, but for now, enjoy the project and even improve it yourself. If you do, I'd love to know/see it, so could you fork this project and/or credit me for the original work? Thanks and have fun with VR and Robotics. 
